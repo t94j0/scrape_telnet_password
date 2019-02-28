@@ -2,4 +2,4 @@
 
 See [Blog Post][post]
 
-[post]: https://maxh.io/tshark-telnet-creds/
+[post]: http://maxh.io/posts/tshark
